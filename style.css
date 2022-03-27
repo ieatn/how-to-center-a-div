@@ -1,0 +1,11 @@
+.emoji {
+    font-size: 10rem;
+    cursor: pointer;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
